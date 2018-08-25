@@ -1,2 +1,3 @@
-# LeetCodeforPython
-LeetCode解题思路，刷题刷题
+# :ghost:LeetCode for Python
+
+暂时没啥要写的，坚持刷题！
